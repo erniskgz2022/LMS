@@ -1,18 +1,16 @@
-import Service.GroupService;
-import Service.Impl.GroupServiceImpl;
-import Service.Impl.LessonServiceImpl;
-import Service.Impl.StudentServiceImpl;
-import Service.LessonService;
-import Service.StudentService;
+import service.GroupService;
+import service.Impl.GroupServiceImpl;
+import service.Impl.LessonServiceImpl;
+import service.Impl.StudentServiceImpl;
+import service.LessonService;
+import service.StudentService;
 import enums.Gender;
 import models.Group;
 import models.Lesson;
 import models.Student;
 
-import java.time.LocalDateTime;
 import java.time.LocalTime;
 import java.util.Scanner;
-import java.util.SortedMap;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package Service.Impl;
+package service.Impl;
 
-import Service.GroupService;
+import service.GroupService;
 import db.Database;
 import models.Group;
 

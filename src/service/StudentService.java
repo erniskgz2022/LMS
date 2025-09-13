@@ -1,4 +1,4 @@
-package Service;
+package service;
 
 import models.Lesson;
 import models.Student;

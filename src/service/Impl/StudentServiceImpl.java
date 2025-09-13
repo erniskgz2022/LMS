@@ -1,6 +1,6 @@
-package Service.Impl;
+package service.Impl;
 
-import Service.StudentService;
+import service.StudentService;
 import db.Database;
 import models.Group;
 import models.Lesson;
